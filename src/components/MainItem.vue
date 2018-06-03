@@ -29,9 +29,9 @@
                 <div class="desc songti" v-html="nagativeTips"></div>
             </div>
         </div>
-        <transition name="sideTab" enter-active-class="animated slideInRight">
+        <!-- <transition name="sideTab" enter-active-class="animated slideInRight">
             <div v-show="sideTabShown" class="sideTab songti" @click="showDialog">我要定制</div>
-        </transition>
+        </transition> -->
     </div>
 </template>
 

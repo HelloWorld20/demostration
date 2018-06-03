@@ -62,48 +62,8 @@
                     <vue-main-item :id="4" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
                 </div>
             </div>
-            <div class="item"></div>
-            <div class="item">
-                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
-                    <vue-main-item :id="5" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
-                </div>
-            </div>
-            <div class="item"></div>
-            <div class="item">
-                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
-                    <vue-main-item :id="6" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
-                </div>
-            </div>
-            <div class="item"></div>
-            <div class="item">
-                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
-                    <vue-main-item :id="7" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
-                </div>
-            </div>
-            <div class="item"></div>
-            <div class="item">
-                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
-                    <vue-main-item :id="8" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
-                </div>
-            </div>
-            <div class="item"></div>
-            <div class="item">
-                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
-                    <vue-main-item :id="9" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
-                </div>
-            </div>
-            <div class="item"></div>
-            <div class="item">
-                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
-                    <vue-main-item :id="10" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
-                </div>
-            </div>
-            <div class="item"></div>
-            <div class="item">
-                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
-                    <vue-main-item :id="11" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
-                </div>
-            </div>
+            
+            
             <div class="item"></div>
             <div class="item">
                 <div class="revert" :style="{width: itemWidth, height: itemHeight}">
