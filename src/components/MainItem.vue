@@ -18,7 +18,9 @@
             </div>
             <div class="middle relative">
                 <transition name="center" enter-active-class="animated fadeIn">
-                    <img v-show="centerShown" :src="typeImg" class="icon-center">
+                    <!-- <img v-show="centerShown" :src="typeImg" class="icon-center"> -->
+                    <div v-show="centerShown" class="icon-center">{{title}}</div>
+                    
                 </transition>
                 <div class="desc-center songti" v-html="mainTips"></div>
             </div>
@@ -49,7 +51,7 @@ export default {
             positiveTips: '',
             nagativeTips: '',
             mainTips: '',
-            typeImg: '',
+            // typeImg: '',
             hasTag: false,
             sideTabShown: false,
             iconShown: false,
@@ -57,6 +59,7 @@ export default {
             timer1: null,
             timer2: null,
             hideQrcode: false,
+            title: '',
         }
     },
     props: ['id'],
@@ -73,7 +76,8 @@ export default {
 
         this.posterImg = require('@/assets/' + this.mainData.posterImg || '');
         // console.log(this.posterImg)
-        this.typeImg = require('@/assets/' + this.mainData.typeImg || '');
+        // this.typeImg = require('@/assets/' + this.mainData.typeImg || '');
+        this.title = this.mainData.title
 
         this.positiveTips = this.mainData.positiveTips || '';
         this.nagativeTips = this.mainData.nagativeTips || '';
@@ -231,13 +235,25 @@ $green: rgb(40,113,55);
             display: block;
             margin: tr(24) auto 0;
         }
+        // .icon-center{
+        //     position: absolute;
+        //     width: 90%;
+        //     left: 5%;
+        //     display: block;
+        //     top: tr(24);
+        // }
         .icon-center{
             position: absolute;
             width: 90%;
             left: 5%;
             display: block;
             top: tr(24);
-            // margin: tr(24) auto 0;
+            font-size: tr(48);
+            text-align: center;
+            color: white;
+            background-color: $green;
+            height: tr(70);
+            border-radius: 6px;
         }
         .desc{
             display: block;

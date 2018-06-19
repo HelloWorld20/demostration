@@ -62,6 +62,66 @@
                     <vue-main-item :id="4" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
                 </div>
             </div>
+            <div class="item"></div>
+            <div class="item">
+                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
+                    <vue-main-item :id="5" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
+                </div>
+            </div>
+            <div class="item"></div>
+            <div class="item">
+                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
+                    <vue-main-item :id="6" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
+                </div>
+            </div>
+            <div class="item"></div>
+            <div class="item">
+                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
+                    <vue-main-item :id="7" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
+                </div>
+            </div>
+            <div class="item"></div>
+            <div class="item">
+                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
+                    <vue-main-item :id="8" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
+                </div>
+            </div>
+            <div class="item"></div>
+            <div class="item">
+                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
+                    <vue-main-item :id="9" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
+                </div>
+            </div>
+            <div class="item"></div>
+            <div class="item">
+                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
+                    <vue-main-item :id="10" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
+                </div>
+            </div>
+            <div class="item"></div>
+            <div class="item">
+                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
+                    <vue-main-item :id="11" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
+                </div>
+            </div>
+            <div class="item"></div>
+            <div class="item">
+                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
+                    <vue-main-item :id="12" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
+                </div>
+            </div>
+            <div class="item"></div>
+            <div class="item">
+                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
+                    <vue-main-item :id="13" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
+                </div>
+            </div>
+            <div class="item"></div>
+            <div class="item">
+                <div class="revert" :style="{width: itemWidth, height: itemHeight}">
+                    <vue-main-item :id="14" @clickPoster="clickPoster" @showDialog="showDialog"></vue-main-item>
+                </div>
+            </div>
             
             
             <div class="item"></div>
@@ -142,7 +202,7 @@ export default {
             realbgMusic: null,
             bgMusic: null,
             typeBtns: [
-                '全景合成','真人互动','视频+生成','互动交互','恶搞动画','3D视觉控','长屏滑动','音频录制','闯关游戏','投票生成','换脸生成','录屏剧情'
+                '美宜佳','爱奇艺','希尔顿','携程','k11','艾美特','南方日报','壹点壹刻','龙岗政府','广汽三菱','绿瘦','中国巨幕'
             ],
             btnShown: true,
             iconPlusShown: false,
