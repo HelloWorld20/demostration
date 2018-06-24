@@ -1,5 +1,4 @@
 <template>
-    
     <div class="main-container">
         <div id="flipbook" @touchmove.prevent>
             <div class="item">

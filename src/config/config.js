@@ -57,7 +57,7 @@ export default {
             nagativeTips: '体验差<br>兼容差<br>没想法',
             mainTips: '产品推广<br>事件营销',
             swiper: ['img/cases/美宜佳_1.jpg', 'img/cases/美宜佳_2.jpg', 'img/cases/美宜佳_3.jpg'],
-            qr: 'img/cases/qr_广州地铁.png',
+            qr: 'img/404.jpg',
         },
         {
             title: '希尔顿滑雪',
@@ -66,8 +66,8 @@ export default {
             positiveTips: 'Phaser<br>横屏适配<br>大量动画',
             nagativeTips: '时间赶<br>防刷奖<br>性能差',
             mainTips: '产品推广<br>事件营销',
-            swiper: ['img/cases/希尔顿_1.jpg', 'img/cases/希尔顿_2.jpg', 'img/cases/希尔顿_3.jpg', 'img/cases/希尔顿_4.jpg'],
-            qr: 'img/cases/qr_希尔顿.jpg',
+            swiper: ['img/cases/希尔顿_1.jpg', 'img/cases/希尔顿_2.jpg', 'img/cases/希尔顿_3.jpg'],
+            qr: 'img/cases/qr_希尔顿.png',
         },
         {
             title: '壹点壹刻',
@@ -86,7 +86,7 @@ export default {
             positiveTips: '信息查询<br>swiper.js<br>app嵌入',
             nagativeTips: '兼容性差<br>动画卡顿<br>无细节',
             mainTips: '产品推广<br>事件营销',
-            swiper: ['img/cases/广州地铁_1.jpg', 'img/cases/广州地铁_2.jpg', 'img/cases/广州地铁_3.jpg', 'img/cases/广州地铁_4.jpg'],
+            swiper: ['img/cases/广州地铁_1.jpg', 'img/cases/广州地铁_2.jpg', 'img/cases/广州地铁_3.jpg'],
             qr: 'img/cases/qr_广州地铁.png',
         },
         {
@@ -97,7 +97,7 @@ export default {
             nagativeTips: '游戏卡顿<br>兼容差<br>不敢创新',
             mainTips: '产品推广<br>事件营销',
             swiper: ['img/cases/贪吃蛇_1.png', 'img/cases/贪吃蛇_2.png', 'img/cases/贪吃蛇_3.png'],
-            qr: 'img/cases/qr_壹点壹刻.png',
+            qr: 'img/404.jpg',
         },
         {
             title: '爱奇艺投票',
@@ -107,7 +107,7 @@ export default {
             nagativeTips: '资源卡顿<br>兼容差<br>数据收集',
             mainTips: '产品推广<br>事件营销',
             swiper: ['img/cases/爱奇艺_1.png', 'img/cases/爱奇艺_2.png', 'img/cases/爱奇艺_3.png'],
-            qr: 'img/cases/qr_壹点壹刻.png',
+            qr: 'img/404.jpg',
         },
         {
             title: '花生答题',
@@ -117,7 +117,7 @@ export default {
             nagativeTips: '服务崩溃<br>响应慢<br>500',
             mainTips: '产品推广<br>事件营销',
             swiper: ['img/cases/花生_1.png', 'img/cases/花生_2.png', 'img/cases/花生_3.png'],
-            qr: 'img/cases/qr_壹点壹刻.png',
+            qr: 'img/404.jpg',
         },
         {
             title: '淳风派',
@@ -137,7 +137,7 @@ export default {
             nagativeTips: '效果差<br>兼容差<br>结构清晰',
             mainTips: '产品推广<br>事件营销',
             swiper: ['img/cases/龙岗_1.png', 'img/cases/龙岗_2.png', 'img/cases/龙岗_3.png'],
-            qr: 'img/cases/qr_壹点壹刻.png',
+            qr: 'img/404.jpg',
         },
         {
             title: '绿瘦换脸',
@@ -157,7 +157,7 @@ export default {
             nagativeTips: '效果差<br>兼容差<br>反复修改',
             mainTips: '产品推广<br>事件营销',
             swiper: ['img/cases/携程点灯_1.png', 'img/cases/携程点灯_2.png', 'img/cases/携程点灯_3.png'],
-            qr: 'img/cases/qr_壹点壹刻.png',
+            qr: 'img/404.jpg',
         },
         {
             title: '集卡助力',
@@ -167,7 +167,7 @@ export default {
             nagativeTips: '逻辑混乱<br>出bug<br>兼容差',
             mainTips: '产品推广<br>事件营销',
             swiper: ['img/cases/集卡_1.png', 'img/cases/集卡_2.png', 'img/cases/集卡_3.png'],
-            qr: 'img/cases/qr_壹点壹刻.png',
+            qr: 'img/404.jpg',
         },
         {
             title: '三菱找不同',
@@ -177,7 +177,7 @@ export default {
             nagativeTips: '数据错乱<br>兼容差<br>效果差',
             mainTips: '产品推广<br>事件营销',
             swiper: ['img/cases/广汽三菱_1.png', 'img/cases/广汽三菱_2.png', 'img/cases/广汽三菱_3.png'],
-            qr: 'img/cases/qr_壹点壹刻.png',
+            qr: 'img/404.jpg',
         },
         {
             title: '深圳晚报',
@@ -187,7 +187,7 @@ export default {
             nagativeTips: '效果差<br>兼容差<br>不敢创新',
             mainTips: '产品推广<br>事件营销',
             swiper: ['img/cases/深圳晚报_1.png', 'img/cases/深圳晚报_2.png', 'img/cases/深圳晚报_3.png'],
-            qr: 'img/cases/qr_壹点壹刻.png',
+            qr: 'img/404.jpg',
         },
         {
             title: '世界杯竞猜',
@@ -197,7 +197,7 @@ export default {
             nagativeTips: '效果差<br>兼容差<br>不敢创新',
             mainTips: '产品推广<br>事件营销',
             swiper: ['img/cases/世界杯竞猜_1.png', 'img/cases/世界杯竞猜_2.png', 'img/cases/世界杯竞猜_3.png'],
-            qr: 'img/cases/qr_壹点壹刻.png',
+            qr: 'img/404.jpg',
         },
         {
             title: '艾美特',
@@ -207,7 +207,7 @@ export default {
             nagativeTips: '不入戏<br>不敢创新<br>一成不变',
             mainTips: '产品推广<br>事件营销',
             swiper: ['img/cases/艾美特_1.png', 'img/cases/艾美特_2.png', 'img/cases/艾美特_3.png'],
-            qr: 'img/cases/qr_壹点壹刻.png',
+            qr: 'img/404.jpg',
         }
     ]
 };

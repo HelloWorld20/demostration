@@ -1,5 +1,6 @@
 <template>
     <div id="app">
+        <p style="position: absolute; z-index: 0; font-size: 20px; text-align: center; width: 100%;margin-top: 200px;">请在移动端访问</p>
         <router-view></router-view>
     </div>
 </template>
